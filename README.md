@@ -29,20 +29,20 @@ EPLAN Electric P8 kullanılarak hazırlanan Roller Bed elektrik ve kontrol siste
 
 ## Proje Görselleri
 
-### Zelio Kontrol Devresi
-![Zelio Control](roller-bed-zelio-control.png)
-
-### Motor Güç Devresi
-![Motor Power Circuit](roller-bed-motor-power-circuit.png)
-
-### ATV312 Motor Kontrolü
-![VFD Motor Control](roller-bed-vfd-motor-control.png)
-
-### Kumanda Devresi
-![Control Circuit](roller-bed-control-circuit.png)
-
-### Güç Besleme Devresi
+### 1. Ana Besleme ve 24 V DC Güç Kaynağı
 ![Power Supply](roller-bed-power-supply.png)
 
-### Motor Bağlantıları
+### 2. Kumanda Devresi
+![Control Circuit](roller-bed-control-circuit.png)
+
+### 3. Schneider Zelio Kontrol Devresi
+![Zelio Control](roller-bed-zelio-control.png)
+
+### 4. ATV312 Motor Sürücü Devresi
+![VFD Motor Control](roller-bed-vfd-motor-control.png)
+
+### 5. Motor Güç Devresi
+![Motor Power Circuit](roller-bed-motor-power-circuit.png)
+
+### 6. Motor Bağlantıları
 ![Motor Connections](roller-bed-motor-connections.png)
